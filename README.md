@@ -18,8 +18,8 @@ Tech Stack:
 
 > Frontend: React, Framer Motion
 
+> Backend using Mongoose and Expressjs
+
 > 3D Library: Three.js
 
 > Color Picker: react-color
-
-> (Optional) AI Framework: (Specify the framework used for logo generation, if applicable)
