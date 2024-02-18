@@ -24,10 +24,12 @@ Tech Stack:
 
 > Color Picker: react-color
 
-#Benefits:
+# Benefits:
 
 Empowering Creativity: Enables users to express their individuality through personalized 3D shirt designs.
 
 Simplified Workflow: Streamlines the logo design process with both upload and AI generation options.
 
 Engaging User Experience: Provides an interactive and visually appealing platform for exploring design ideas.
+
+Feel free to explore the code, contribute, and suggest improvements!
