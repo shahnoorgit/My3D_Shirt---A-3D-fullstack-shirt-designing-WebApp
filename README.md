@@ -1,4 +1,4 @@
-# My3D_Shirt---A-3D-fullstack-shirt-designing-Webdite
+# My3D_Shirt-3D-fullstack-shirt-designing-Website
 Interactive 3D Shirt Design Website with AI-powered Logo Generation This repository houses the code for an interactive website that allows users to design their own 3D shirts with various features:
 
 Interactive 3D Shirt Design Website with AI-powered Logo Generation
@@ -13,3 +13,13 @@ Key Features:
 > Direct Logo Upload: Users can upload their own logos and seamlessly integrate them onto the 3D shirt model.
 
 > AI-powered Logo Generation: For those without pre-existing logos, the website leverages an AI to generate unique and creative logo suggestions.
+
+Tech Stack:
+
+> Frontend: React, Framer Motion
+
+> 3D Library: Three.js
+
+> Color Picker: react-color
+
+> (Optional) AI Framework: (Specify the framework used for logo generation, if applicable)
