@@ -6,7 +6,10 @@ This repository houses the code for an interactive website that allows users to 
 
 Key Features:
 
-Intuitive 3D Design Interface: Built with Three.js, users can manipulate a 3D shirt model in real-time.
-Seamless Color Customization: Employing the react-color library, users can easily choose and apply colors to the shirt.
-Direct Logo Upload: Users can upload their own logos and seamlessly integrate them onto the 3D shirt model.
-AI-powered Logo Generation: For those without pre-existing logos, the website leverages an AI to generate unique and creative logo suggestions.
+> Intuitive 3D Design Interface: Built with Three.js, users can manipulate a 3D shirt model in real-time.
+
+> Seamless Color Customization: Employing the react-color library, users can easily choose and apply colors to the shirt.
+
+> Direct Logo Upload: Users can upload their own logos and seamlessly integrate them onto the 3D shirt model.
+
+> AI-powered Logo Generation: For those without pre-existing logos, the website leverages an AI to generate unique and creative logo suggestions.
