@@ -1,5 +1,5 @@
 # My3D_Shirt-3D-fullstack-shirt-designing-Website
-![Project Screenshot](Screenshot(241).png)
+![Project Screenshot](project.png)
 Interactive 3D Shirt Design Website with AI-powered Logo Generation This repository houses the code for an interactive website that allows users to design their own 3D shirts with various features:
 
 Check-it ==> https://65d1bc1991a5a70f4eec9531--adorable-platypus-aa9ab8.netlify.app/
